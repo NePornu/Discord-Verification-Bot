@@ -1,4 +1,4 @@
-**# Discord Bot Verification System README **
+# Discord Bot Verification System README
 
 ## 🇬🇧 English Version
 ### Overview
